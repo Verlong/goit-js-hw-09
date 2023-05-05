@@ -5,7 +5,7 @@
 // Зроби так, щоб доки зміна теми запущена, кнопка «Start» була неактивною(disabled).
 // Для генерування випадкового кольору використовуй функцію getRandomHexColor.
 
-import { getRandomHexColor } from './RandomHexColor';
+import { getRandomHexColor } from './randomHexColor.js';
 
 document.body.style.backgroundColor = getRandomHexColor();
 
