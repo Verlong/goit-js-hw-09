@@ -1,3 +1,4 @@
+// імпорт бібліотеки
 import Notiflix from 'notiflix';
 
 const delayInput = document.querySelector('input[name="delay"]');
